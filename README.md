@@ -1,7 +1,7 @@
 # Psswd-Creator
 Psswd-Creator es un simple codigo programado en python con el fin de crear contraseñas largas, seguras y unicas.
 
-#¿Como se instala?
+# ¿Como se instala?
 
 pkg install git
 pkg install python
@@ -17,18 +17,22 @@ python Psswd-Creator.py
 4. Indicas el número de caracteres que quieres que tu contraseña contenga (Min 8 - Max 24).
 5. Ya habras creado tus contraseñas mas seguras!
 
-#¿En donde está disponible?
+# ¿En donde está disponible?
 
 ✔ Termux.
+
 ✔ GNU/Linux (Y todas sus distribucciones como Kali Linux).
+
 ✔ Parrot Os
 
-#Mis redes sociales:
+# Mis redes sociales:
 
 · Instagram: https://instagram.com/jm_r3y
+
 · Instagram: https://instagram.com/black_wolf.es
+
 · TikTok:    https://tiktok.com/@jm_r3y
 
-#Con el apoyo de:
+# Con el apoyo de:
 
-Tool creada con el apoyo de ELITE 6-27
+*Tool creada con el apoyo de ELITE 6-27*
