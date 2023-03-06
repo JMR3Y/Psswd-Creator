@@ -4,9 +4,13 @@ Psswd-Creator es un simple codigo programado en python con el fin de crear contr
 # ¿Como se instala?
 
 pkg install git
+
 pkg install python
+
 git clone https://github.com/JMR3Y/Psswd-Creator
+
 cd Psswd-Creator
+
 python Psswd-Creator.py
 
 # ¿Como se usa?
